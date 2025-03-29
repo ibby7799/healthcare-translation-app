@@ -18,7 +18,7 @@ function App() {
   useEffect(() => {
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
     if (!SpeechRecognition) {
-      setError('Your browser does not support speech recognition.');
+      setError('Your browser does not support speech recognition. Use Edge Browser');
       return;
     }
 
