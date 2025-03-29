@@ -137,7 +137,6 @@ This project is a **Healthcare Translation Web App** that aims to facilitate mul
    REACT_APP_GROK_API_KEY=your_valid_grok_api_key_here
    ```
 
-   > **Note:** The API key is exposed on the client side using `dangerouslyAllowBrowser: true` for development purposes only. For production, consider using a backend proxy to protect your API key.
 
 4. **Start the Development Server:**
 
