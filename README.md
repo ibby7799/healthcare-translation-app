@@ -117,7 +117,7 @@ This project is a **Healthcare Translation Web App** that aims to facilitate mul
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/healthcare-translation-app.git
+   git clone https://github.com/ibby7799/healthcare-translation-app.git
    cd healthcare-translation-app
    ```
 
